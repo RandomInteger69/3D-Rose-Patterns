@@ -1,6 +1,6 @@
 # 3D-Rose-Patterns
 A three dimensional take on the conventional Maurer Rose algorithm.
-In order for you to use this code, you need to download "Processing" from this website:https://processing.org/download/
+In order for you to use this code, you need to download "Processing" from this website: https://processing.org/download/ 
 Processing is a graphics framework, shich can be used with the programming language java.
 
 If you want to know, how the conventional Maurer Rose algorithm works, I suggest you to visit the wikipedia page:
